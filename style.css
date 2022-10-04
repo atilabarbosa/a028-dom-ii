@@ -11,7 +11,7 @@
     gap: 10px;
 }
 
-.item{
+.item, .item1{
     width: 90px;
     height: 90px;
     background-color: orange;
